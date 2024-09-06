@@ -24,6 +24,11 @@ This project demonstrates SQL skills and techniques used to explore, clean, and 
 3. **Data Analysis & Findings**
    - Analyze the cleaned data to answer specific business questions.
 
+ ## Requirements
+-	SQL Database (e.g., MySQL, PostgreSQL)
+-	SQL Client (e.g., MySQL Workbench, pgAdmin)
+
+
 ## Business Questions
 
 The following business questions guide the analysis of retail sales data:
